@@ -1,32 +1,44 @@
-from flask import Flask, request, jsonify
-import subprocess
-import shlex
+from flask import Flask, request, jsonify #import Flask
+import openai
+import os
 
-app = Flask(__name__)
+app = Flask(__name__) #initialize the Flask app
+openai.api_key = os.getenv("OPENAI_API_KEY")  # Load API key from environment variables
 
 def extract_order_from_transcript(transcript):
-    """Uses OpenAI to extract restaurant orders."""
+    """Uses OpenAI API to extract restaurant orders."""
+    
     prompt = f"""
     You are an AI assistant that helps restaurant servers take orders.
     Your task is to extract all ordered items and format them in shorthand for a POS system.
 
-    - Extract and format orders clearly.
-    - Ignore small talk or questions.
-    - Use shorthand format for menu items.
+    **Rules:**
+    - DO NOT use extra words, just list the orders in shorthand format.
+    - Wines must specify size (if given). Example: "9-ounce house white" → "9oz hse whte".
+    - Orders must be grouped by seat number. Example:
+      "I'd like a steak medium. Hi, I'd like chicken bryan and a 6oz house white" →
+      "Seat 1: 7oz sirloin (med) - Seat 2: chx bryan, 6oz hse whte"
+    - Special instructions should be written as:
+      - "7oz sirloin - medium - Special instruction: no salt"
+    - Ignore small talk and questions like "What drinks do you have?"
 
-    Transcript:
+    Now, extract the order from this transcript:
     "{transcript}"
 
     Return only the shorthand order output.
     """
 
-    command = f'ollama run mistral {shlex.quote(prompt)}'
-    result = subprocess.run(command, shell=True, capture_output=True, text=True)
+    try:
+        response = openai.ChatCompletion.create(
+            model="gpt-4",  # Or "gpt-3.5-turbo" if cost is a concern
+            messages=[{"role": "system", "content": prompt}],
+            max_tokens=150,
+        )
 
-    if result.returncode != 0:
-        return f"Error: {result.stderr.strip()}"
+        return response["choices"][0]["message"]["content"].strip()
 
-    return result.stdout.strip()
+    except Exception as e:
+        return f"Error: {str(e)}"
 
 @app.route("/process_order", methods=["POST"])
 def process_order():
