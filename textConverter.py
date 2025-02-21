@@ -30,7 +30,7 @@ def extract_order_from_transcript(transcript):
 
     try:
         response = openai.chat.completions.create(
-            model="gpt-4",
+            model="gpt-4o",
             messages=[{"role": "system", "content": prompt}],
             max_tokens=150,
         )   
