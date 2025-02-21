@@ -70,5 +70,10 @@ def process_order():
 
     return jsonify({"order": formatted_order})
 
+PORT = os.getenv("PORT", "5000")  # Use Railway’s assigned port
+
+def create_app():
+    return app
+
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=int(PORT))
