@@ -1,1 +1,1 @@
-web: gunicorn --worker-tmp-dir /dev/shm --workers=2 -b 0.0.0.0:$PORT textConverter:app
+web: gunicorn -w 4 -b 0.0.0.0:8080 textConverter:app
