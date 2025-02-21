@@ -57,5 +57,4 @@ def process_order():
     return jsonify({"order": formatted_order}) if formatted_order.strip() else jsonify({"error": "No valid order detected"}), 200
 
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 5000))  # Uses Railway's PORT env, falls back to 5000
-    app.run(host="0.0.0.0", port=port, debug=True)
+    app.run(host="0.0.0.0", port=8080)  # Make sure it's 8080, NOT 5000
