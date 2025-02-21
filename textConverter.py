@@ -29,11 +29,11 @@ def extract_order_from_transcript(transcript):
     """
 
     try:
-        response = openai.ChatCompletion.create(
-            model="gpt-4",  # Or "gpt-3.5-turbo" if cost is a concern
+        response = openai.chat.completions.create(
+            model="gpt-4",
             messages=[{"role": "system", "content": prompt}],
             max_tokens=150,
-        )
+        )   
 
         return response["choices"][0]["message"]["content"].strip()
 
