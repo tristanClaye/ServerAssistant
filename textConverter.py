@@ -25,7 +25,7 @@ def extract_order_from_transcript(transcript):
       - "7oz sirloin - medium - Special instruction: no salt"
     - Ignore small talk and questions like "What drinks do you have?"
     - Heres the menu for reference (you can ingore the nutrition info, ALSO if an order contains an item not on the menu, start the output with !?!): {full_menu}
-
+    - If an order sounds similar to something on the menu, then output that menu item, the voice transcripter may be slightly inacurrate.
 
     Now, extract the order from this transcript:
     "{transcript}"
