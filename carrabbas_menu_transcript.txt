@@ -1,0 +1,443 @@
+Menu Item Name Quantity Measure CaloriesFat 
+CaloriesFat (g)Saturated         
+Fat (g)Trans 
+Fat (g)Cholesterol (mg)Sodium 
+(mg)Carbohydrate (g)Total 
+Fiber (g)Sugar (g) Protein (g)
+Appetizers
+    Calamari with Marinara & Ricardo Sauce 1 Serving 1160 780 87 21 8 415 2220 61 4 5 32
+    Zucchini Fritte 1 Serving 760 560 63 11 4.5 15 1190 41 5 5 9
+    Crab Cake Appetizer 1 Serving 430 170 19 6 0 130 2020 38 4 5 28
+    Tuscan Breadstick Tower 1 Serving 770 360 40 15 0.5 30 1980 88 6 9 18
+    Classic Combo (Regional)with calamari, mozzarella & 
+zucchini1 Serving 1450 980 109 30 7 375 2660 72 6 10 45
+    Classic Combo Appetizer with Calamari, Brushette 
+Caprese & Mozz Marinara1 Serving 1130 540 60 25 1 370 3470 96 6 11 52
+    Classic Combo Appetizer, w calamari, mozzarella, 
+mushrooms1 Serving 1390 930 103 34 5 415 3160 60 6 12 55
+    Meatballs and Ricotta 1 Serving 480 290 33 15 1 120 1630 17 4 9 28
+    Mozzarella Marinara 1 Serving 1050 670 75 33 1.5 335 2090 43 3 11 50
+    Shrimp Scampi 1 Serving 960 430 48 26 0 325 2400 85 2 8 47
+    Cozze in Bianco 1 Serving 500 200 22 8 0 105 1680 34 2 6 37
+    Four-Cheese & Sausage Stuffed Mushrooms 1 Serving 320 230 26 10 0 45 1100 8 2 4 14
+    Tomato Caprese with Fresh Burrata 1 Serving 460 350 39 17 0 70 1210 15 2 7 15
+    Bruschette Scotty Thompson (Regional) 1 Serving 680 350 39 10 0.5 40 1050 62 4 10 21
+Boule Bread with oil and herbs 1 Serving 590 200 22 2 0 40 2800 80 4 3 17
+Soups, Entrée Salads, and Side Salads
+    Johnny Rocco Salad--All Shrimp 1 Serving 550 380 43 11 0 225 2190 11 5 3 34
+    Johnny Rocco Salad--All Scallops 1 Serving 670 430 49 13 0 100 3800 20 5 3 41
+    Johnny Rocco Salad--Shrimp & Scallops 1 Serving 590 390 44 11 0 155 2930 16 5 3 36
+    Caesar Entree Salad with Chicken 1 Serving 980 600 67 15 1 180 1800 27 5 5 66
+    Entree Salad:Caesar Salad With Shrimp 1 Serving 800 580 64 13 1 160 1990 28 5 5 29
+    Entree Salad: Italian Salad with Chicken 1 Serving 780 540 61 11 0 110 1560 20 7 9 40
+    Entree Salad: Italian Salad with Shrimp 1 Serving 690 540 61 10 0 135 1910 21 8 9 21
+    Side Caesar Salad 1 Serving 390 300 33 8 0.5 25 760 14 2 2 10
+    Side Italian Salad 1 Serving 320 260 29 5 0 10 600 14 5 7 4
+    Side House Salad 1 Serving 330 250 28 6 0 20 580 17 5 7 6
+    Mama Mandola's Sicilian Chicken Soup, Bowl 1 Serving 320 100 11 3 0 65 2430 32 4 5 24
+    Minestrone Soup, Bowl 1 Serving 210 70 8 3 0 0 870 31 6 5 5CARRABBA'S ITALIAN GRILL NUTRITION
+The nutritional values provided herein are based on standard company recipes. The nutritional analyses which produced the nutritional values of the company recipes were derived from supplier nutrition information, the USDA database and an 
+independent lab. Menu items are hand-prepared and nutritional values may vary from the stated amount. This information is updated periodically to reflect our current product offerings. Nutrition information is updated when new data is recieved from 
+suppliers. Due to this reason, calories on the print menu may differe from online information.  The online information in this document is the most up to date.  
+                                                                                                                                                                                                                                                                                                                                                                                                         
+Created: January 2025
+Menu Item Name Quantity Measure CaloriesFat 
+CaloriesFat (g)Saturated         
+Fat (g)Trans 
+Fat (g)Cholesterol (mg)Sodium 
+(mg)Carbohydrate (g)Total 
+Fiber (g)Sugar (g) Protein (g)
+    Sausage & Lentil Soup, Bowl 1 Serving 490 250 27 8 0 40 2420 37 12 8 23
+    Tomato Basil Soup, Bowl 1 Serving 370 260 29 15 0 80 1560 26 5 19 5
+    Mama Mandola's Sicilian Chicken Soup, Cup 1 Serving 230 50 6 1.5 0 30 1290 29 3 2 15
+    Minestrone Soup, Cup 1 Serving 110 35 4 1.5 0 0 440 16 3 3 3
+    Sausage & Lentil Soup, Cup 1 Serving 240 120 14 4 0 20 1210 19 6 4 12
+    Tomato Basil Soup, Cup 1 Serving 190 130 15 7 0 40 780 13 3 9 3
+Pasta
+    Filet and Shrimp Pasta Toscana 1 Serving 2220 1320 147 83 3.5 480 4760 142 9 10 75
+    Linguine Pescatore 1 Serving 1000 120 13 2.5 0 190 2620 155 10 16 68
+    Linguine Pescatore with Gluten-Free Pasta 1 Serving 1060 130 14 2.5 0 195 3170 173 20 14 60
+    Fettuccine Carrabba 1 Serving 2040 1090 122 77 3.5 460 2570 133 7 9 93
+    Lasagne 1 Serving 1030 520 58 30 1.5 185 2570 72 9 15 54
+    Linguine Positano 1 Serving 950 290 33 2.5 0 0 1750 145 8 13 24
+    Linguine Positano with Grilled Chicken 1 Serving 1220 330 38 4.5 0 145 2200 145 8 13 79
+    Linguine Positano with Grilled Shrimp 1 Serving 1040 310 35 3 0 120 2380 145 8 13 39
+    Linguine Positano with Grilled Chicken and Gluten-Free Pasta 1 Serving 1290 340 39 5 0 150 2750 163 18 10 71
+    Linguine Positano with Grilled Shrimp and Gluten-Free 
+Pasta1 Serving 1100 320 36 3.5 0 120 2930 163 18 11 31
+    Spaghetti with Pomodoro Sauce 1 Serving 730 110 12 2 0 0 2070 130 14 21 24
+    Spaghetti with Meat Sauce 1 Serving 870 230 25 7 0 40 1840 124 12 16 33
+    Spaghetti with Meatballs 1 Serving 1220 420 46 16 1 135 3230 141 16 24 56
+    Gluten Free Spaghetti with Pomodoro Sauce 1 Serving 860 110 12 2 0 5 2180 172 23 20 17
+    Gluten Free Spaghetti with Meat Sauce 1 Serving 990 220 25 8 1 45 1940 166 21 15 26
+    Gluten Free Spaghetti with Meatballs 1 Serving 1340 410 46 16 1.5 135 3330 182 25 23 49
+    Fettuccine Weesie 1 Serving 2060 1210 135 82 3.5 545 2780 135 7 9 71
+    Grilled Vegetable Ravioli 1 Serving 710 330 37 19 0.5 100 1720 67 7 12 24
+    Rigatoni Campagnolo 1 Serving 1420 640 71 29 0.5 155 2830 131 11 21 64
+    Rigatoni Campagnolo with Gluten-Free Pasta 1 Serving 1610 650 72 30 1 160 3380 175 22 18 60
+    Lobster Ravioli 1 Serving 690 320 36 21 1 185 1140 70 3 6 23
+    Rigatoni Martino, no protein 1 Serving 1320 630 71 42 1.5 155 2790 123 12 17 48
+    Rigatoni Martino with Chicken 1 Serving 1540 670 75 44 1.5 280 3160 123 12 17 94
+    Rigatoni Martino with Sausage 1 Serving 1700 930 103 52 1.5 225 3500 125 12 17 66
+    Mezzaluna 1 Serving 700 320 36 20 0.5 135 1440 60 4 7 33
+    Shrimp and Scallop Linguine Alla Vodka 1 Serving 1050 310 34 13 0 185 1900 119 9 10 49
+    Fettuccine Weesie, Gluten Free 1 Serving 2040 1180 132 82 4 435 2540 164 16 10 53
+    Penne Martino, no protein (Regional) 1 Serving 1320 630 71 42 1.5 155 2790 123 12 17 48
+    Penne Martino with Chicken (Regional) 1 Serving 1540 670 75 44 1.5 280 3160 123 12 17 94
+Menu Item Name Quantity Measure CaloriesFat 
+CaloriesFat (g)Saturated         
+Fat (g)Trans 
+Fat (g)Cholesterol (mg)Sodium 
+(mg)Carbohydrate (g)Total 
+Fiber (g)Sugar (g) Protein (g)
+    Penne Martino with Sausage (regional) 1 Serving 1700 930 103 52 1.5 225 3500 125 12 17 66
+ Specialties
+    Chicken Bryan 1 Serving 490 220 25 15 0 180 1080 12 2 6 54
+    Chicken Marsala 1 Serving 460 200 23 13 0.5 190 800 5 0 2 56
+    Tuscan-Grilled Chicken 1 Serving 270 45 5 2 0 145 450 0 0 0 55
+    Veal Marsala 1 Serving 520 200 22 11 0 205 910 19 1 2 56
+    Chicken Parmesan 1 Serving 760 400 45 16 0.5 310 1890 19 4 9 68
+    Eggplant Parmesan 1 Serving 1950 1100 123 58 4 285 4910 127 16 22 89
+    Chicken Piccata 1 Serving 580 260 29 11 0 155 1200 27 1 3 51
+    Veal Piccata 1 Serving 410 170 19 10 0 145 930 17 1 3 39
+    Pollo Rosa Maria 1 Serving 550 240 27 13 0 205 1420 6 1 2 69
+Seafood
+    Spiedino Di Mare All Shrimp 1 Serving 460 270 30 11 0 220 2140 21 2 4 27
+    Spiedino Di Mare All Scallops 1 Serving 580 320 36 13 0 95 3750 30 2 4 34
+    Spiedino Di Mare Shrimp & Scallops 1 Serving 520 300 33 12 0 155 2940 25 2 4 31
+    Mahi Wulfe, 8oz 1 Serving 490 180 20 10 0 145 1670 22 4 6 54
+    Salmon Caperi 1 Serving 760 510 57 16 0 175 1360 9 1 3 51
+    Simply Grilled Salmon 1 Serving 540 350 39 7 0 130 680 1 0 0 45
+    Salmon Vazzano (Regional) 1 Serving 690 470 53 16 0 160 1160 7 1 3 46
+Trios
+    Chicken Trio 1 Serving 750 340 37 20 0 290 1650 11 1 5 89
+    The Johnny Trio w/7oz Sirloin 1 Serving 1010 480 54 29 0.5 270 2860 43 5 8 85
+    The Johnny Trio w/10oz Sirloin 1 Serving 1130 530 59 31 0.5 305 2980 44 6 8 102
+    Carrabba's Italian Classics w/Fettuccine 1 Serving 1600 920 103 58 2.5 395 2700 87 6 11 76
+Steaks & Chops & Toppings
+    Tuscan Grilled Sirloin, 7oz. 1 Serving 310 130 14 6 0 90 1430 4 2 1 41
+    Tuscan Grilled Sirloin, 10 oz. 1 Serving 440 170 19 8 0 125 1540 5 3 1 58
+    Tuscan Grilled Ribeye, 16 oz. 1 Serving 740 410 46 16 1.5 215 1590 5 1 1 74
+    Tuscan Grilled Ribeye, 12 oz. (Regional) 1 Serving 600 350 40 14 1 160 1560 5 1 1 56
+    Tuscan Grilled Filet, 9 oz. 1 Serving 610 380 43 16 0 170 3680 6 2 1 48
+    Tuscan Grilled Pork Chop, One Chop 1 Serving 400 240 27 9 0 105 1410 3 1 1 33
+    Tuscan Grilled Pork Chop, Two Chops 1 Serving 800 490 54 18 0 215 2820 6 1 2 66
+    Spicy Sicilian Butter Topping 1 Serving 100 100 11 6 0 15 250 1 0 0 0
+    Marsala Sauce Topping 1 Serving 190 160 18 11 0.5 45 350 5 0 2 1
+    Ardente Topping 1 Serving 250 180 20 6 0 30 980 7 1 4 7
+    Bryan Topping 1 Serving 210 160 17 11 0 45 590 9 1 4 4
+Menu Item Name Quantity Measure CaloriesFat 
+CaloriesFat (g)Saturated         
+Fat (g)Trans 
+Fat (g)Cholesterol (mg)Sodium 
+(mg)Carbohydrate (g)Total 
+Fiber (g)Sugar (g) Protein (g)
+Sides
+    Sauteed Broccoli 1 Serving 140 100 11 1.5 0 0 520 10 5 3 5
+    Garlic Mashed Potatoes 1 Serving 350 150 17 3.5 0 5 1090 46 4 3 6
+    Penne Pomodoro 1 Serving 350 50 6 1 0 0 1020 62 7 10 12
+    Parmesan Truffle Fries 1 Serving 750 380 43 11 0 15 2670 79 8 0 13
+    Sauteed Spinach 1 Serving 180 140 15 1 0 0 300 9 2 1 4
+    Grilled Asparagus 1 Serving 45 25 2.5 0 0 0 550 5 2 1 3
+    Fettuccine Alfredo, Side 1 Serving 820 520 58 38 1.5 165 960 51 2 4 20
+    Rosemary and Garlic Fries (regional) 1 Serving 780 410 46 10 0 5 1860 80 8 0 11
+Desserts
+   Sogno di Cioccolata 1 Serving 1200 740 83 40 1 200 560 111 6 89 11
+    Strawberry Cheesecake 1 Serving 990 580 64 38 3 315 690 87 3 70 16
+    Traditional Cannoli 1 Serving 970 600 67 40 0 135 570 76 3 49 17
+    Tiramisu 1 Serving 950 630 70 47 1.5 205 80 68 4 51 10
+    John Cole 1 Serving 630 340 38 10 0 50 320 70 2 52 8
+    Cannoli Cake for Two 1 Serving 2170 1190 132 65 1 215 1170 227 8 145 26
+Kid's
+    Kids Grilled Chicken and Steamed Spinach 1 Serving 190 45 5 1.5 0 65 230 6 4 0 27
+    Kids Grilled Chicken Meal with Broccoli 1 Serving 200 50 5 1.5 0 65 140 11 6 3 29
+    Kids Grilled Shrimp and Steamed Broccoli 1 Serving 160 5 0.5 0 0 180 380 12 7 3 30
+    Kids Grilled Shrimp and Steamed Spinach 1 Serving 130 5 0 0 0 180 450 6 4 0 27
+    Kids Spaghetti and Meatball 1 Serving 530 160 18 6 0 45 1420 69 8 11 23
+    Kids Mac N' Cheese 1 Serving 410 120 13 8 0.5 45 900 56 4 6 16
+    Kids Chicken Fingers with Broccoli 1 Serving 630 220 24 4.5 0 60 2740 70 11 14 37
+    Kids Cheese Ravoli 1 Serving 240 80 9 4 0 35 940 30 4 7 11
+    Penne Pomodoro 1 Serving 350 50 6 1 0 0 1020 62 7 10 12
+    100% Apple Juice with Ice 1 Serving 80 0 0 0 0 0 25 20 0 20 0
+    100% Orange Juice with Ice 1 Serving 80 0 0 0 0 0 0 19 0 19 1
+Lunch
+Mama Mandola's Sicilian Chicken Soup, Cup 1 Serving 230 50 6 1.5 0 30 1290 29 3 2 15
+Sausage & Lentil Soup, Cup 1 Serving 240 120 14 4 0 20 1210 19 6 4 12
+Minestrone Soup, Cup 1 Serving 110 35 4 1.5 0 0 440 16 3 3 3
+Tomato Basil Soup, Cup 1 Serving 190 130 15 7 0 40 780 13 3 9 3
+Side House Salad 1 Serving 330 250 28 6 0 20 580 17 5 7 6
+Side Italian Salad 1 Serving 320 260 29 5 0 10 600 14 5 7 4
+Side Caesar Salad 1 Serving 390 300 33 8 0.5 25 750 14 2 2 10
+Meatballs and Ricotta 1 Serving 480 290 33 15 1 120 1630 17 4 9 28
+Shrimp Scampi 1 Serving 620 250 28 8 0 155 970 62 1 4 29
+Mozzarella Marinara 1 Serving 520 340 38 16 1 170 1050 21 2 5 25
+Fettuccine Alfredo, Side 1 Serving 740 440 49 32 1.5 155 980 51 2 4 20
+Menu Item Name Quantity Measure CaloriesFat 
+CaloriesFat (g)Saturated         
+Fat (g)Trans 
+Fat (g)Cholesterol (mg)Sodium 
+(mg)Carbohydrate (g)Total 
+Fiber (g)Sugar (g) Protein (g)
+Four-Cheese & Sausage Stuffed Mushrooms 1 Serving 320 230 26 10 0 45 1100 8 2 4 14
+Bruschette Chicken Sandwhich 1 Serving 590 280 31 11 0 115 840 32 2 3 45
+Italian Sandwich 1 Serving 660 400 45 13 0 85 2590 32 2 3 35
+Caprese Sandwich 1 Serving 390 230 25 8 0 20 790 31 2 2 11
+Caprese Sandwich with Grilled Chicken 1 Serving 740 270 30 14 1 185 1360 44 3 3 69
+Meatball Sandwich 1 Serving 910 570 63 29 1.5 160 2290 45 4 8 41
+Chicken Parmesan Sandwich 1 Serving 580 240 27 9 0 155 1560 42 5 9 41
+Steak Sandwhich 1 Serving 460 210 24 10 0 80 1280 31 4 2 29
+Pasta Salad 1 Serving 600 390 43 8 0 15 1150 41 5 6 12
+Side Fries 1 Serving 740 330 37 8 0 0 2360 92 9 12 9
+Penne Pomodoro 1 Serving 350 50 6 1 0 0 1020 62 7 10 12
+Sauteed Broccoli 1 Serving 140 100 11 1.5 0 0 520 10 5 3 5
+Johnny Rocco Salad--All Shrimp 1 Serving 550 380 43 11 0 225 2190 11 5 3 34
+Johnny Rocco Salad--All Scallops 1 Serving 670 430 49 13 0 100 3800 20 5 3 41
+Johnny Rocco Salad--Shrimp & Scallops 1 Serving 590 390 44 11 0 155 2930 16 5 3 36
+Caesar Entree Salad with Chicken 1 Serving 980 600 67 15 1 180 1800 27 5 5 66
+Caesar Entrée Salad With Shrimp 1 Serving 800 580 64 13 1 160 1980 28 5 5 29
+Italian Entrée Salad with Chicken 1 Serving 780 540 61 11 0 110 1560 20 7 9 40
+Italian Entrée Salad with Shrimp 1 Serving 700 540 61 10 0 135 1910 21 8 9 21
+Happy Hour
+Charcuterie Board with 2 Glasses of Wine 1 Serving 1640 860 95 40 0 260 6340 33 1 3 85
+Charcuterie Board 1 Serving 1390 870 97 42 0 250 6240 35 1 10 84
+Red Wine, Glass, 6 ounce 1 Serving 150 0 0 0 0 0 5 5 0 1 0
+Calabrian Wings with Gorgonzola Cheese or Ranch Sauce 1 Serving 1180 910 102 36 1 310 1660 4 0 1 60
+Bruschette Caprese 1 Serving 370 130 15 8 0 35 570 43 2 3 15
+Calamari 1 Serving 650 440 49 13 4 215 1480 35 3 5 17
+Vegetable Focaccia Bites 1 Serving 320 150 17 4.5 0 10 890 33 2 5 9
+Mezzaluna Fritte 1 Serving 440 290 33 10 0 115 600 24 2 3 12
+Meatball Sliders 1 Serving 610 230 26 9 0.5 70 1580 66 5 8 29
+Shrimp Focaccia Bites 1 Serving 380 190 21 10 0 120 960 33 1 3 18
+Blood Orange Margarita 1 Serving 170 0 0 0 0 0 10 20 0 18 0
+Passion Pear Spritz 1 Serving 150 0 0 0 0 0 0 19 0 17 0
+Italian Old Fashioned 1 Serving 170 0 0 0 0 0 0 9 1 8 0
+Pomegranate Martini 1 Serving 200 0 0 0 0 0 0 25 0 25 1
+Pizza (Regional)
+    Margherita Pizza-Regional 1 Serving 630 280 31 10 0 45 1940 67 4 3 24
+    Cheese Pizza-Regional 1 Serving 580 220 25 10 0 45 1250 67 3 3 24
+    Pepperoni Pizza-Regional 1 Serving 790 410 46 15 0 75 1760 67 3 3 30
+    Chicken Bryan Pizza-Regional 1 Serving 860 330 36 17 0.5 160 1720 73 5 7 60
+Menu Item Name Quantity Measure CaloriesFat 
+CaloriesFat (g)Saturated         
+Fat (g)Trans 
+Fat (g)Cholesterol (mg)Sodium 
+(mg)Carbohydrate (g)Total 
+Fiber (g)Sugar (g) Protein (g)
+    Caesar Salad 1 Serving 290 210 24 6 0 20 570 11 2 2 8
+    House Salad 1 Serving 200 170 19 3.5 0 10 360 6 2 2 3
+    Italian Salad 1 Serving 200 170 19 3 0 5 420 6 2 3 2
+    Garlic Mashed Potatoes 1 Serving 280 120 13 3 0 5 880 37 3 3 5
+    Sauteed Broccoli 1 Serving 140 100 11 1.5 0 0 520 10 5 3 5
+    Penne Pomodoro 1 Serving 350 50 6 1 0 0 1020 62 3 10 12
+    Chicken Bryan 1 Serving 540 230 26 15 0 205 1150 12 2 6 62
+    Chicken Marsala 1 Serving 230 100 11 6 0 95 400 2 1 1 28
+    Chicken Parmesan 1 Serving 760 400 45 16 0.5 310 1890 19 4 9 68
+    Lasagne 1 Serving 1070 560 62 32 1.5 190 2600 69 9 15 59
+    Penne Carrabba 1 Serving 1020 580 64 39 1.5 240 1290 57 5 5 53
+    Penne Meat Sauce 1 Serving 470 140 16 5 0 30 1020 61 3 9 18
+    Penne Meatballs 1 Serving 660 250 28 10 0.5 90 1700 68 3 11 33
+    Side Penne Pomodoro 1 Serving 350 50 6 1 0 0 1020 62 7 10 12
+    Penne Positano 1 Serving 390 120 14 1 0 0 910 56 4 5 11
+    Tuscan-Grilled Chicken 1 Serving 270 45 5 2 0 145 440 0 0 0 53
+    Mini Cannoli 1 Serving 320 200 22 13 0 30 160 26 1 14 5
+    Focaccia Bread (Small) 1 Pan 730 320 36 5 0 0 1630 87 4 3 18
+    Focaccia Bread (Large) 1 Pan 1450 640 73 10 0 0 3270 174 9 6 36
+    Penne Alfredo (Small) 1 Pan 3850 2550 283 187 9 795 4710 223 12 25 96
+    Penne Alfredo (Large) 1 Pan 7690 5100 567 374 19 1585 9420 445 23 51 193
+    Penne Alfredo with Chicken (Small) 1 Pan 4390 2640 293 191 9 1085 5610 223 12 25 206
+    Penne Alfredo with Chicken (Large) 1 Pan 8790 5280 586 381 19 2170 11210 445 23 51 411
+    Penne Positano (No protein) (Small) 1 Pan 1860 710 80 6 0 0 5030 237 19 26 46
+    Penne Positano (No protein) (Large) 1 Pan 3720 1420 161 13 0 0 10070 475 38 53 91
+    Penne Positano with Chicken (Small) 1 Pan 2410 800 90 10 0 290 5930 237 19 26 155
+    Penne Positano with Chicken (Large) 1 Pan 4810 1600 180 21 0 585 11860 475 38 53 309
+    Penne Carrabba (No Protein) (Small) 1 Pan 3960 2570 286 187 9 795 5080 238 21 30 104
+    Penne Carrabba (No Protein) (Large) 1 Pan 7930 5150 572 374 19 1585 10170 476 42 60 209
+    Penne Carrabba with Chicken (Small 1 Pan 4590 2710 302 195 9 1105 6190 239 21 30 220
+    Penne Carrabba with Chicken (Large 1 Pan 9170 5430 603 390 19 2205 12380 477 42 60 439
+    Lasagne (Small) 1 Pan 4120 2140 238 126 5 745 9300 258 29 50 228
+    Lasagne (Large) 1 Pan 8230 4280 477 251 10 1490 18600 517 59 100 456
+    Mezzaluna (Small) 1 Pan 2100 1090 121 68 1.5 400 4560 160 12 23 92
+    Mezzaluna (Large) 1 Pan 4200 2180 242 136 3.5 805 9130 319 23 46 184
+    Penne Pomodoro (No Protein) (Small) 1 Pan 1480 250 28 4.5 0 0 4740 259 31 49 48
+    Penne Pomodoro (No Protein) (Large) 1 Pan 2960 500 56 9 0 0 9470 517 62 97 96
+    Penne Pomodoro with Meatballs (Small) 1 Pan 2950 1160 129 46 3 375 8710 298 39 64 141
+    Penne Pomodoro with Meatballs (Large) 1 Pan 5890 2310 258 92 6 750 17420 597 77 127 283Catering: Perfect Bundles & Party Pans (Small Serves 5 & Large Serves 10)
+Menu Item Name Quantity Measure CaloriesFat 
+CaloriesFat (g)Saturated         
+Fat (g)Trans 
+Fat (g)Cholesterol (mg)Sodium 
+(mg)Carbohydrate (g)Total 
+Fiber (g)Sugar (g) Protein (g)
+    Penne Pomodoro with Meat Sauce (Small) 1 Pan 2110 730 81 28 1.5 150 4930 252 28 42 86
+    Penne Pomodoro with Meat Sauce (Large) 1 Pan 4230 1450 162 55 3.5 305 9860 503 57 85 173
+    Rigatoni Martino (No Protein) (Small) 1 Pan 2600 1280 143 82 2.5 300 5510 245 28 37 85
+    Rigatoni Martino (No Protein) (Large) 1 Pan 5210 2570 286 163 4.5 605 11020 491 56 74 169
+    Rigatoni Martino with Chicken (Small) 1 Pan 3390 1530 170 97 2.5 645 7070 247 28 37 212
+    Rigatoni Martino with Chicken (Large) 1 Pan 6770 3060 340 194 5 1290 14140 495 57 74 424
+    Rigatoni Martino with Sausage (Small) 1 Pan 3840 2190 243 119 2.5 530 8210 253 33 37 151
+    Rigatoni Martino with Sausage (Large) 1 Pan 7670 4380 487 238 5 1060 16420 507 66 74 302
+    Rigatoni Campagnolo (Small) 1 Pan 3120 1430 159 66 1.5 345 7430 266 29 46 144
+    Rigatoni Campagnolo (Large) 1 Pan 6240 2850 318 133 3 690 14850 532 59 92 288
+    Penne Weesie (Small) 1 Pan 4520 2920 325 201 9 1295 6320 238 17 29 159
+    Penne Weesie (Large) 1 Pan 9050 5840 650 401 19 2595 12650 475 33 58 319
+    Tuscan Grilled Chicken (Small) 1 Pan 820 130 15 6 0 440 1350 0 0 0 164
+    Tuscan Grilled Chicken (Large) 1 Pan 1370 220 24 10 0 730 2240 0 0 0 273
+    Chicken Marsala (Small) 1 Pan 1290 530 60 33 1.5 550 2230 9 5 4 168
+    Chicken Marsala (Large) 1 Pan 2380 1070 120 67 3 970 4130 19 11 9 281
+    Pollo Rosa Maria  (small) 1 Pan 1600 690 77 37 0 610 4080 11 5 4 206
+    Pollo Rosa Maria (Large) 1 Pan 2760 1220 136 66 0 1035 7110 21 10 8 345
+    Chicken Bryan (Small) 1 Pan 1610 690 77 45 1 615 3460 35 5 19 187
+    Chicken Bryan (Large) 1 Pan 2840 1280 142 84 1.5 1055 6240 64 9 35 313
+    Sirloin Marsala (Small) 1 Pan 1860 1070 120 53 1.5 535 6350 19 7 7 160
+    Sirloin Marsala (Large) 1 Pan 3720 2140 239 106 3 1075 12690 38 15 13 320
+    Salmon Capperi (Small) 1 Pan 2280 1530 171 49 0 520 4070 27 3 9 153
+    Salmon Caperi (Large) 1 Pan 4550 3060 342 99 0.5 1040 8150 54 5 17 307
+    Side Penne Pomodoro (Small) 1 Pan 1480 250 28 4.5 0 0 4740 259 31 49 48
+    Side Penne Pomodoro (Large) 1 Pan 2960 500 56 9 0 0 9470 517 62 97 96
+    Sauteed Broccoli (Small) 1 Pan 710 490 54 7 0 0 2620 50 25 13 25
+    Sauteed Broccoli (Large) 1 Pan 1430 950 108 14 0 0 5240 99 49 26 50
+    Garlic Mashed Potatoes (Small) 1 Pan 1750 750 83 18 0 20 5470 228 20 16 29
+    Garlic Mashed Potatoes (Large) 1 Pan 3510 1500 167 37 0 35 10950 457 40 32 57
+    Italian Salad with Dressing (Small) 1 Pan 1160 1010 115 19 0 35 2110 30 11 13 10
+    Italian Salad with Dressing (Large) 1 Pan 2320 2030 229 38 0.5 70 4210 59 22 25 20
+    Caesar Salad with Dressing (Small) 1 Pan 1390 1100 123 25 2 85 2660 47 7 8 25
+    Caesar Salad with Dressing (Large) 1 Pan 2780 2200 245 50 3.5 165 5320 94 14 17 51
+    House Salad with Dressing (Small) 1 Pan 1180 1000 111 22 1.5 70 1920 32 11 13 18
+    House Salad with Dressing (Large) 1 Pan 2350 1990 223 44 3 145 3850 64 22 26 36
+    Mini Cannoli (Small) 1 Pan 1470 910 101 58 0 120 660 121 5 60 22
+    Mini Cannoli (Large) 1 Pan 2940 1810 201 115 1 245 1310 241 9 119 44
+    Fresh Baked Chocolate Chunk Cookies (Small) 1 Pan 1870 800 89 43 1.5 175 950 259 9 152 22
+    Fresh Baked Chocolate Chunk Cookies(Large) 1 Pan 3740 1610 179 87 3 355 1900 519 19 305 44
+    Fresh Baked Oatmeal Raisin Cookies (Small) 1 Pan 1750 670 75 30 1.5 175 1010 260 11 139 24
+Menu Item Name Quantity Measure CaloriesFat 
+CaloriesFat (g)Saturated         
+Fat (g)Trans 
+Fat (g)Cholesterol (mg)Sodium 
+(mg)Carbohydrate (g)Total 
+Fiber (g)Sugar (g) Protein (g)
+    Fresh Baked Oatmeal Raisin Cookies (Large) 1 Pan 3490 1340 149 60 3 350 2020 520 21 278 47
+    Sogno Di Cioccolata "Chocolate Dream" 1 Pan 13390 8440 943 436 13 2375 6520 1203 60 970 120
+    Tiramisu 1 Pan 12440 7870 874 536 26 3155 1180 1035 35 766 159
+    Fresh Brewed Iced Tea Unsweetened, Gallon 1 Gallon 0 0 0 0 0 0 480 0 0 0 0
+    Fresh Brewed Iced Tea Sweet, Gallon 1 Gallon 1790 0 0 0 0 0 120 465 0 453 0
+    Lemonade, Gallon 1 Gallon 2090 0 0 0 0 0 125 544 0 523 0
+    Fresh-Brewed Blackberry Tea, Gallon 1 Gallon 690 0 0 0 0 0 105 171 0 157 0
+    Raspberry Lemonade, Gallon 1 Gallon 2990 0 0 0 0 0 115 767 0 748 0
+    Strawberry Lemonade, Gallon 1 Gallon 2690 0 0 0 0 0 115 692 0 669 0
+Dulles Airport
+    Mozzarella Marinara 1 Serving 1050 670 75 33 1.5 335 2090 43 3 11 50
+    Meatballs and Ricotta 1 Serving 480 290 33 15 1 120 1630 17 4 9 28
+    Margherita Pizza-Regional 1 Serving 630 280 31 10 0 45 1940 67 4 3 24
+    Pepperoni Pizza-Regional 1 Serving 790 410 46 15 0 75 1760 67 3 3 30
+    Entree Salad:Caesar Salad With Chicken 1 Serving 870 580 64 13 1 130 1610 27 5 5 47
+    Side Caesar Salad 1 Serving 390 300 33 8 0.5 25 750 14 2 2 10
+    Chicken Bryan 1 Serving 490 220 25 15 0 180 1080 12 2 6 54
+    Tuscan-Grilled Chicken 1 Serving 270 45 5 2 0 145 440 0 0 0 53
+    Tuscan Grilled Sirloin, 10 oz. 1 Serving 480 230 26 9 0 150 1450 3 1 1 56
+    Bryan Topping 1 Serving 210 160 17 11 0 45 590 9 1 4 4
+    Spaghetti with Meatballs 1 Serving 1220 420 46 16 1 135 3230 141 16 24 56
+    Caprese Sandwich - No Chicken 1 Serving 510 230 26 12 1 60 980 44 3 3 23
+    Caprese Sandwich with Grilled Chicken 1 Serving 740 270 30 14 1 185 1360 44 3 3 69
+    Meatball Sandwich 1 Serving 730 340 38 18 1 140 1780 54 4 7 40
+    Penne Pomodoro 1 Serving 350 50 6 1 0 0 1020 62 7 10 12
+    Diet Pepsi (Dulles Airport) 1 Serving 0 0 0 0 0 0 25 0 0 0 0
+    Pepsi (Dulles Airport) 1 Serving 110 0 0 0 0 0 25 31 0 31 0
+    Sierra Mist (Dulles Airport) 1 Serving 110 0 0 0 0 0 25 28 0 28 0
+    Ginger Ale (Dulles Airport) 1 Serving 90 0 0 0 0 0 45 25 0 24 0
+Bistro Sandwich Bundles/ Sandwich Trays (Serves 5)
+    Bruschette Chicken Sandwich 1 Pan 2930 1400 157 55 1 580 4210 159 9 13 223
+    Chicken Parmesan Sandwich 1 Pan 2880 1230 137 44 2 780 7790 211 23 45 203
+    Italian Sandwich 1 Pan 3320 2020 225 67 2 420 12930 161 11 14 175
+    Steak Marsala Sandwich 1 Pan 3120 1510 169 80 2 565 8360 206 13 49 163
+    House Made Chips 1 Pan 720 520 58 10 1 0 2160 47 3 0 4
+    Pasta Salad 1 Pan 2870 1860 209 36 0.5 80 5510 199 22 27 57
+    House Salad with Dressing 1 Pan 1180 1000 111 22 1.5 70 1920 32 11 13 18
+    Caesar Salad with Dressing 1 Pan 1390 1100 123 25 2 85 2660 47 7 8 25
+    Fresh Baked Chocolate Chunk Cookies 1 Pan 1870 800 89 43 1.5 175 950 259 9 152 22
+    Fresh Baked Oatmeal Raisin Cookies 1 Pan 1750 670 75 30 1.5 175 1010 260 11 139 24
+Menu Item Name Quantity Measure CaloriesFat 
+CaloriesFat (g)Saturated         
+Fat (g)Trans 
+Fat (g)Cholesterol (mg)Sodium 
+(mg)Carbohydrate (g)Total 
+Fiber (g)Sugar (g) Protein (g)
+    Lemonade, Gallon 1 Pan 2090 0 0 0 0 0 125 544 0 523 0
+    Fresh Brewed Iced Tea Unsweetened, Gallon 1 Pan 0 0 0 0 0 0 480 0 0 0 0
+    Fresh Brewed Iced Tea Sweet, Gallon 1 Pan 1790 0 0 0 0 0 120 465 0 453 0
+    Strawberry Lemonade, Gallon 1 Pan 2690 0 0 0 0 0 115 692 0 669 0
+Bistro Boxed Lunches (Serves 1)
+    Bruschette Chicken Sandwich 1 Serving 590 280 31 11 0 115 840 32 2 3 45
+    Chicken Parmesan 1 Serving 580 240 27 9 0 155 1560 42 5 9 41
+    Italian Sandwich 1 Serving 660 400 45 13 0 85 2590 32 2 3 35
+    Caprese Sandwich with Grilled Chicken 1 Serving 390 230 25 8 0 20 790 31 2 2 11
+    Pasta Salad 1 Serving 600 390 43 8 0 15 1150 41 5 6 12
+    House Made Chips 1 Serving 140 100 12 2 0 0 430 9 1 0 1
+    Oatmeal Cookie 1 Serving 350 130 15 6 0 35 200 52 2 28 5
+    Chocolate Chip Cookie 1 Serving 190 80 9 4.5 0 15 105 26 1 16 2
+ Beverages
+    Cafe Latte 1 Serving 110 35 4 2 0 15 85 13 0 11 5
+    Cappuccino 1 Serving 90 30 3 1.5 0 10 70 12 0 8 4
+    Coffee 1 Serving 0 0 0 0 0 0 0 0 0 0 0
+    Espresso 1 Serving 45 10 1.5 0 0 5 30 7 0 4 1
+    Coke with Ice 1 Serving 80 0 0 0 0 0 30 23 0 23 0
+    Diet Coke with Ice 1 Serving 0 0 0 0 0 0 25 0 0 0 0
+    Dr. Pepper with Ice 1 Serving 90 0 0 0 0 0 35 23 0 22 0
+    Sprite with Ice 1 Serving 90 0 0 0 0 0 20 23 0 21 0
+    Hi-C Fruit Punch with Ice 1 Serving 90 0 0 0 0 0 15 26 0 26 0
+    Minute Maid Lemonade with Ice 1 Serving 100 0 0 0 0 0 15 25 0 25 0
+    Gold Peak Tea, Sweet with Ice 1 Serving 70 0 0 0 0 0 20 18 0 18 0
+    Gold Peak Tea, with Ice 1 Serving 0 0 0 0 0 0 20 0 0 0 0
+    Flavored Tea, with Ice: Blackberry 1 Serving 40 0 0 0 0 0 5 10 0 9 0
+    Flavored Tea, with Ice: Desert Pear 1 Serving 40 0 0 0 0 0 5 10 0 9 0
+    Flavored Tea, with Ice: Mango 1 Serving 50 0 0 0 0 0 5 13 0 12 0
+    Flavored Tea, with Ice: Orange 1 Serving 45 0 0 0 0 0 5 11 0 11 0
+    Flavored Tea, with Ice: Peach 1 Serving 40 0 0 0 0 0 5 10 0 9 0
+    Flavored Tea, with Ice: Pomegranate 1 Serving 45 0 0 0 0 0 5 11 0 11 0
+    Flavored Tea, with Ice: Raspberry 1 Serving 50 0 0 0 0 0 5 13 0 12 0
+    Flavored Tea, with Ice: Strawberry 1 Serving 35 0 0 0 0 0 5 9 0 8 0
+    Flavored Tea, with Ice: White Peach 1 Serving 40 0 0 0 0 0 5 10 0 9 0
+    Raspberry Lemonade with Ice 1 Serving 160 0 0 0 0 0 5 41 0 40 0
+    Strawberry Lemonade with Ice 1 Serving 140 0 0 0 0 0 5 37 0 36 0
+Beer, Varies by Location
+    Bud Light 1 Serving 110 0 0 0 0 0 0 7 0 0 1
+    Blue Moon 1 Serving 170 0 0 0 0 0 15 14 0 0 2
+    Samuel Adams 1 Serving 180 0 0 0 0 0 0 0 0 0 0
+Menu Item Name Quantity Measure CaloriesFat 
+CaloriesFat (g)Saturated         
+Fat (g)Trans 
+Fat (g)Cholesterol (mg)Sodium 
+(mg)Carbohydrate (g)Total 
+Fiber (g)Sugar (g) Protein (g)
+    MICHELOB ULTRA 1 Serving 100 0 0 0 0 0 10 3 0 0 1
+    Coors Light 1 Serving 100 0 0 0 0 0 10 5 0 0 1
+    Stella Artois 1 Serving 140 0 0 0 0 0 0 11 0 0 0
+ Wine & Sangria
+    Blackberry Sangria, Glass, 6 ounce 1 Serving 230 0 0 0 0 0 10 32 1 28 0
+    Blackberry Sangria, Glass, 9 ounce 1 Serving 340 0 0 0 0 0 15 45 1 41 0
+    Classic Red Sangria, Glass, 6 ounce 1 Serving 190 0 0 0 0 0 0 22 1 19 1
+    Classic Red Sangria, Glass, 9 ounce 1 Serving 280 0 0 0 0 0 5 30 1 26 1
+    Peach Sangria, Glass, 6 ounce 1 Serving 220 0 0 0 0 0 10 22 0 20 0
+    Peach Sangria, Glass, 9 ounce 1 Serving 330 0 0 0 0 0 15 34 0 31 0
+    Sangria Rita 1 Serving 240 0 0 0 0 0 0 31 0 28 0
+    Red Wine, Bottle, 750 ml 1 Serving 630 0 0 0 0 0 30 19 0 5 1
+    Red Wine, Glass, 6 ounce 1 Serving 150 0 0 0 0 0 5 5 0 1 0
+    Red Wine, Glass, 9 ounce 1 Serving 220 0 0 0 0 0 10 7 0 2 0
+    Rose Wine, Bottle, 750 ml 1 Serving 640 0 0 0 0 0 40 29 0 29 3
+    Rose Wine, Glass, 6 ounce 1 Serving 150 0 0 0 0 0 10 7 0 7 1
+    Rose Wine, Glass, 9 ounces 1 Serving 230 0 0 0 0 0 15 10 0 10 1
+    Sparking Wine, Bottle, 750 ml 1 Serving 600 0 0 0 0 0 0 22 0 0 0
+    Sparking Wine, Glass, 6 ounce 1 Serving 140 0 0 0 0 0 0 5 0 0 0
+    White Wine, Bottle, 750 ml 1 Serving 610 0 0 0 0 0 35 19 0 7 1
+    White Wine, Glass, 6 ounce 1 Serving 140 0 0 0 0 0 10 5 0 2 0
+    White Wine, Glass, 9 ounce 1 Serving 220 0 0 0 0 0 15 7 0 3 0
+    Blackberry Sangria, Pitcher 1 Serving 970 0 0 0 0 0 50 131 1 118 1
+    Classic Red Sangria, Pitcher 1 Serving 1020 0 0 0 0 0 25 109 1 95 3
+    Peach Sangria, Pitcher 1 Serving 890 0 0 0 0 0 50 87 0 78 1
+Cocktails
+    Wood Fired Old Fashioned 1 Serving 190 0 0 0 0 0 5 12 0 12 0
+    Espresso Martini 1 Serving 200 0 0 0 0 0 0 20 0 11 0
+    Pomegranate Martini 1 Serving 200 0 0 0 0 0 0 25 0 25 1
+    Sicilian Prickly Pear Margarita 1 Serving 280 0 0 0 0 0 0 36 0 33 0
+    Sangria Rita 1 Serving 240 0 0 0 0 0 0 31 0 28 0
+    Italian Old Fashioned 1 Serving 170 0 0 0 0 0 0 9 1 8 0
+    Sparkling Tuscan Lemonade 1 Serving 190 0 0 0 0 0 15 24 0 23 0
