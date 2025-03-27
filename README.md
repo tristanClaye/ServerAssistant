@@ -12,12 +12,16 @@ ServerAssistant is an IOS app made to streamline the tedious side of serving in 
 - Internet connection (to use Deepgram and OpenAI APIs)
 # Setup 
 1. Clone the repository:
-'''git clone https://github.com/tristanClaye/ServerAssistant.git'''
-2. Navigate to the IOS folder
-'''cd ServerAssistant/IOS'''
-3. Open with Xcode:
+'''
+git clone https://github.com/tristanClaye/ServerAssistant.git
+'''
+3. Navigate to the IOS folder
+'''
+cd ServerAssistant/IOS
+'''
+4. Open with Xcode:
 Double-click the ServerAssistant.xcodeproj file to launch in Xcode.
-4. Build and Run:
+5. Build and Run:
 Select target device or simulator and press Cmd+R to build and run the application.
 #Usage
 1.	Launching the App:
