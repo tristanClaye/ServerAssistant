@@ -6,12 +6,15 @@ ServerAssistant is an IOS app made to streamline the tedious side of serving in 
  - Voice Transcription: Utilizes Deepgram AI to accurately capture customer orders.
  - AI Order Processing: Formats orders into clean, shorthand format, commonly used on restaurant order tickets.
  - Order History Tracking: Maintains a record of orders for each table, allowning easy access and modification.
-# Setup
-'''bash
+# Requirements
+- macOS device
+- [Xcode](https://developer.apple.com/xcode/) installed (latest version recommended)
+- Internet connection (to use Deepgram and OpenAI APIs)
+# Setup 
 1. Clone the repository:
-git clone https://github.com/tristanClaye/ServerAssistant.git
+'''git clone https://github.com/tristanClaye/ServerAssistant.git'''
 2. Navigate to the IOS folder
-cd ServerAssistant/IOS
+'''cd ServerAssistant/IOS'''
 3. Open with Xcode:
 Double-click the ServerAssistant.xcodeproj file to launch in Xcode.
 4. Build and Run:
