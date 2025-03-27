@@ -7,6 +7,7 @@ ServerAssistant is an IOS app made to streamline the tedious side of serving in 
  - AI Order Processing: Formats orders into clean, shorthand format, commonly used on restaurant order tickets.
  - Order History Tracking: Maintains a record of orders for each table, allowning easy access and modification.
 # Setup
+'''bash
 1. Clone the repository:
 git clone https://github.com/tristanClaye/ServerAssistant.git
 2. Navigate to the IOS folder
