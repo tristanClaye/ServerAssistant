@@ -36,6 +36,6 @@ Upon opening, the splash screen introduces the ServerAssistant.
 4.	Recording Orders:
    	 - In the dashboard, use the “Start Recording” button to begin capturing orders via voice.
 	 - Press “Stop Recording” to end and save the transcript.
-	5.	Viewing Order History:
+5.	Viewing Order History:
 The dashboard displays a transcript box containing the history of orders taken for the selected table.
 
