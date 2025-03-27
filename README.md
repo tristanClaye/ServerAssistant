@@ -23,7 +23,7 @@ cd ServerAssistant/IOS
 Double-click the ServerAssistant.xcodeproj file to launch in Xcode.
 5. Build and Run:
 Select target device or simulator and press Cmd+R to build and run the application.
-#Usage
+# Usage
 1.	Launching the App:
 Upon opening, the splash screen introduces the ServerAssistant.
 2.	Creating a New Table:
