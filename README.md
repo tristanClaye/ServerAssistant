@@ -27,15 +27,15 @@ Select target device or simulator and press Cmd+R to build and run the applicati
 1.	Launching the App:
 Upon opening, the splash screen introduces the ServerAssistant.
 2.	Creating a New Table:
-	•	Tap on “+ New Table”.
-	•	Enter the table number and number of guests.
-	•	If the table number already exists, an error message will be displayed.
+   	 - Tap on “+ New Table”.
+	 - Enter the table number and number of guests.
+	 - If the table number already exists, an error message will be displayed.
 3.	Reopening an Existing Table:
-	•	Select “Reopen Table” to view and manage active tables.
-	•	Choose the desired table to access its dashboard.
+	 - Select “Reopen Table” to view and manage active tables.
+	 - Choose the desired table to access its dashboard.
 4.	Recording Orders:
-	•	In the dashboard, use the “Start Recording” button to begin capturing orders via voice.
-	•	Press “Stop Recording” to end and save the transcript.
+   	 - In the dashboard, use the “Start Recording” button to begin capturing orders via voice.
+	 - Press “Stop Recording” to end and save the transcript.
 	5.	Viewing Order History:
 The dashboard displays a transcript box containing the history of orders taken for the selected table.
 
