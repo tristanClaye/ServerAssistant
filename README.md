@@ -48,8 +48,8 @@ The dashboard displays a transcript box containing the history of orders taken f
 # Note
 ServerAssistant is an actively evolving project.
 I plan to continue adding features and improvements, including:
-	-	Smart table timers and reminders (refills, check-ins, etc.)
-	-	Ability to edit recorded orders.
- 	-	UI improvements.
+ - Smart table timers and reminders (refills, check-ins, etc.)
+ - Ability to edit recorded orders.
+ - UI improvements.
 
 If you have feedback, suggestions, or want to collaborate — feel free to reach out: trisclaye@gmail.com
