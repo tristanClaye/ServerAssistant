@@ -26,21 +26,30 @@ Double-click the ServerAssistant.xcodeproj file to launch in Xcode.
 6. Under "Team", select your **Apple ID / Developer Team** from the dropdown.
     - If none appear, go to `Xcode > Settings > Accounts`, and sign in with your Apple ID first.
 7. Ensure "Automatically manage signing" is checked.
-8. Build and Run:
+8. In the top center of your screen, ensure iphone 16 simulator is selected.
+9. Build and Run:
 Select target device or simulator and press Cmd+R to build and run the application.
 # Usage
 1.	Launching the App:
 Upon opening, the splash screen introduces the ServerAssistant.
-2.	Creating a New Table:
+	- When prompted to allow microphone access, press accept.
+3.	Creating a New Table:
    	 - Tap on “+ New Table”.
-	 - Enter the table number and number of guests.
+	 - Enter the table number and number of guests and press the "+ Add Table" button.
 	 - If the table number already exists, an error message will be displayed.
-3.	Reopening an Existing Table:
+4.	Reopening an Existing Table:
 	 - Select “Reopen Table” to view and manage active tables.
-	 - Choose the desired table to access its dashboard.
-4.	Recording Orders:
+	 - Choose the desired table and press the "Open" button to access its dashboard.
+5.	Recording Orders:
    	 - In the dashboard, use the “Start Recording” button to begin capturing orders via voice.
 	 - Press “Stop Recording” to end and save the transcript.
-5.	Viewing Order History:
+6.	Viewing Order History:
 The dashboard displays a transcript box containing the history of orders taken for the selected table.
+# Note
+ServerAssistant is an actively evolving project.
+I plan to continue adding features and improvements, including:
+	-	Smart table timers and reminders (refills, check-ins, etc.)
+	-	Ability to edit recorded orders.
+ 	-	UI improvements.
 
+If you have feedback, suggestions, or want to collaborate — feel free to reach out: trisclaye@gmail.com
