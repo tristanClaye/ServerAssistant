@@ -10,6 +10,7 @@ ServerAssistant is an IOS app made to streamline the tedious side of serving in 
 - macOS device
 - [Xcode](https://developer.apple.com/xcode/) installed (latest version recommended)
 - Internet connection (to use Deepgram and OpenAI APIs)
+- An Apple Developer Account (free or paid)
 # Setup 
 1. Clone the repository:
 ~~~
@@ -21,7 +22,11 @@ cd ServerAssistant/IOS
 ~~~
 4. Open with Xcode:
 Double-click the ServerAssistant.xcodeproj file to launch in Xcode.
-5. Build and Run:
+5. Click the **"Signing & Capabilities"** tab.
+6. Under "Team", select your **Apple ID / Developer Team** from the dropdown.
+    - If none appear, go to `Xcode > Settings > Accounts`, and sign in with your Apple ID first.
+7. Ensure "Automatically manage signing" is checked.
+8. Build and Run:
 Select target device or simulator and press Cmd+R to build and run the application.
 # Usage
 1.	Launching the App:
